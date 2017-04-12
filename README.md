@@ -1,4 +1,4 @@
-# cyanogen-samsungd2xxx
+# lineageos-samsungd2xxx
 Proprietary blobs and local manifests for Samsung d2xxx (Samsung Galaxy S III) devices.
 
 The manifests here work for the following devices:
