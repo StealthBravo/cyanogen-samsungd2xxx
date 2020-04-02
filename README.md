@@ -1,4 +1,4 @@
-# lineageos-samsungd2xxx
+# lineageos-samsungd2x
 
 **Please note that this repository is no longer actively maintained and is for reference purposes only. Additionally, official CM/Lineage support for d2x devices has concluded and stability cannot be expected, especially as these devices approach nearly 10 years of age**
 
