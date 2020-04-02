@@ -8,9 +8,9 @@ The manifests here work for the following devices:
 - d2vzw
 - d2spr
 
-d2lte/unified is NOT supported due to the de-unifying of builds beginning with CM 12.
+d2lte/unified is NOT supported due to the de-unifying of builds beginning with CM/Lineage 12.
 
-If you're compiling builds on a remote machine (VPS, dedicated, etc.), this is for you, since you can't easily extract blobs to a remote machine, and most personal machines aren't suitable for building due to lack of a suitable internet connection.
+If you're compiling builds on a remote machine (VPS, dedicated, etc.), this is for you, since you can't easily extract blobs to a remote machine, and most personal machines aren't suitable for building due to lack of a decent internet connection.
 
 File should be placed in /root/android/.repo/local_manifests. If .repo doesn't exist, you need to run build/envsetup.sh.
 
