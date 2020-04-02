@@ -1,4 +1,7 @@
 # lineageos-samsungd2xxx
+
+**Please note that this repository is no longer actively maintained and is for reference purposes only. Additionally, official CM/Lineage support for d2* devices has officially concluded and stability cannot be expected, especially as these devices approach nearly 10 years of age**
+
 Proprietary blobs and local manifests for Samsung d2xxx (Samsung Galaxy S III) devices.
 
 The manifests here work for the following devices:
